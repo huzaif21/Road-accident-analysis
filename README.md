@@ -1,6 +1,6 @@
 # PBI-Road-Acccident-Analysis
 
-![Dashboard Image](https://github.com/HuzaifQazi/PBI-Road-Accident-Analysis/blob/main/Final%20Dashboard%20Image.PNG "Final Dashboard Image")
+![Dashboard Image][([https://github.com/HuzaifQazi/PBI-Road-Accident-Analysis/blob/main/Final%20Dashboard%20Image.PNG "Final Dashboard Image"](https://github.com/huzaif21/Road-Accident-Analysis)](https://github.com/huzaif21/Road-Accident-Analysis)
 
 ## Table of Contents
 * [Introduction](#Introduction)
